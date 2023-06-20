@@ -1,0 +1,15 @@
+{
+  "workbench.ColorCustomizations": {},
+  "editor.tokenColorCustomizations": {
+  "textMateRules": [
+      {
+          "name": "variable",
+          "scope": [
+            "entity.name.tag.localname" --element change 
+          ],
+          "settings": {
+              "foreground": "#08a1c7" --colour for change 
+          }
+      }
+  ]
+}
